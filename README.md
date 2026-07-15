@@ -1,6 +1,6 @@
 ### Hi there, I'm Tobiloba 👋
 
-## I am a Fullstack Developer and Smart contract developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+## I am a Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a frontend developer contributing to building web applications and open source projects.
 - 👯 I’m looking to collaborate on amazing projects.
 - :seedling: Exploring Technical Content Writing.
